@@ -1,0 +1,16 @@
+C:\Learnings\01 - CSharp__BasicConcepts\DelegatesDemo\EventsAndDelegatesDemo\obj\Debug\net5.0\EventsAndDelegatesDemo.csproj.AssemblyReference.cache
+C:\Learnings\01 - CSharp__BasicConcepts\DelegatesDemo\EventsAndDelegatesDemo\obj\Debug\net5.0\EventsAndDelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learnings\01 - CSharp__BasicConcepts\DelegatesDemo\EventsAndDelegatesDemo\obj\Debug\net5.0\EventsAndDelegatesDemo.AssemblyInfoInputs.cache
+C:\Learnings\01 - CSharp__BasicConcepts\DelegatesDemo\EventsAndDelegatesDemo\obj\Debug\net5.0\EventsAndDelegatesDemo.AssemblyInfo.cs
+C:\Learnings\01 - CSharp__BasicConcepts\DelegatesDemo\EventsAndDelegatesDemo\obj\Debug\net5.0\EventsAndDelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Learnings\01 - CSharp__BasicConcepts\DelegatesDemo\EventsAndDelegatesDemo\bin\Debug\net5.0\EventsAndDelegatesDemo.exe
+C:\Learnings\01 - CSharp__BasicConcepts\DelegatesDemo\EventsAndDelegatesDemo\bin\Debug\net5.0\EventsAndDelegatesDemo.deps.json
+C:\Learnings\01 - CSharp__BasicConcepts\DelegatesDemo\EventsAndDelegatesDemo\bin\Debug\net5.0\EventsAndDelegatesDemo.runtimeconfig.json
+C:\Learnings\01 - CSharp__BasicConcepts\DelegatesDemo\EventsAndDelegatesDemo\bin\Debug\net5.0\EventsAndDelegatesDemo.runtimeconfig.dev.json
+C:\Learnings\01 - CSharp__BasicConcepts\DelegatesDemo\EventsAndDelegatesDemo\bin\Debug\net5.0\EventsAndDelegatesDemo.dll
+C:\Learnings\01 - CSharp__BasicConcepts\DelegatesDemo\EventsAndDelegatesDemo\bin\Debug\net5.0\ref\EventsAndDelegatesDemo.dll
+C:\Learnings\01 - CSharp__BasicConcepts\DelegatesDemo\EventsAndDelegatesDemo\bin\Debug\net5.0\EventsAndDelegatesDemo.pdb
+C:\Learnings\01 - CSharp__BasicConcepts\DelegatesDemo\EventsAndDelegatesDemo\obj\Debug\net5.0\EventsAndDelegatesDemo.dll
+C:\Learnings\01 - CSharp__BasicConcepts\DelegatesDemo\EventsAndDelegatesDemo\obj\Debug\net5.0\ref\EventsAndDelegatesDemo.dll
+C:\Learnings\01 - CSharp__BasicConcepts\DelegatesDemo\EventsAndDelegatesDemo\obj\Debug\net5.0\EventsAndDelegatesDemo.pdb
+C:\Learnings\01 - CSharp__BasicConcepts\DelegatesDemo\EventsAndDelegatesDemo\obj\Debug\net5.0\EventsAndDelegatesDemo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Learnings\01 - CSharp__BasicConcepts\StructDemo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.exe
+C:\Learnings\01 - CSharp__BasicConcepts\StructDemo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.deps.json
+C:\Learnings\01 - CSharp__BasicConcepts\StructDemo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.json
+C:\Learnings\01 - CSharp__BasicConcepts\StructDemo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.dev.json
+C:\Learnings\01 - CSharp__BasicConcepts\StructDemo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.dll
+C:\Learnings\01 - CSharp__BasicConcepts\StructDemo\ConsoleUI\bin\Debug\net5.0\ref\ConsoleUI.dll
+C:\Learnings\01 - CSharp__BasicConcepts\StructDemo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.pdb
+C:\Learnings\01 - CSharp__BasicConcepts\StructDemo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learnings\01 - CSharp__BasicConcepts\StructDemo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Learnings\01 - CSharp__BasicConcepts\StructDemo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfo.cs
+C:\Learnings\01 - CSharp__BasicConcepts\StructDemo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Learnings\01 - CSharp__BasicConcepts\StructDemo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.dll
+C:\Learnings\01 - CSharp__BasicConcepts\StructDemo\ConsoleUI\obj\Debug\net5.0\ref\ConsoleUI.dll
+C:\Learnings\01 - CSharp__BasicConcepts\StructDemo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.pdb
+C:\Learnings\01 - CSharp__BasicConcepts\StructDemo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.genruntimeconfig.cache

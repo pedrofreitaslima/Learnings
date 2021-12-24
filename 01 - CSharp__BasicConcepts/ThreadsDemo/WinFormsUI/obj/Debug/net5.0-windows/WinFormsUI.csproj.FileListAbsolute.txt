@@ -1,0 +1,36 @@
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\bin\Debug\net5.0-windows\WinFormsUI.exe
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\bin\Debug\net5.0-windows\WinFormsUI.deps.json
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\bin\Debug\net5.0-windows\WinFormsUI.runtimeconfig.json
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\bin\Debug\net5.0-windows\WinFormsUI.runtimeconfig.dev.json
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\bin\Debug\net5.0-windows\WinFormsUI.dll
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\bin\Debug\net5.0-windows\ref\WinFormsUI.dll
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\bin\Debug\net5.0-windows\WinFormsUI.pdb
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.csproj.AssemblyReference.cache
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.frmDashboard.resources
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.csproj.GenerateResource.cache
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.AssemblyInfoInputs.cache
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.AssemblyInfo.cs
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.csproj.CoreCompileInputs.cache
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.dll
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\obj\Debug\net5.0-windows\ref\WinFormsUI.dll
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.pdb
+C:\Learning\CSharp\AsyncAndAwaitDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.genruntimeconfig.cache
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\bin\Debug\net5.0-windows\WinFormsUI.exe
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\bin\Debug\net5.0-windows\WinFormsUI.deps.json
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\bin\Debug\net5.0-windows\WinFormsUI.runtimeconfig.json
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\bin\Debug\net5.0-windows\WinFormsUI.runtimeconfig.dev.json
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\bin\Debug\net5.0-windows\WinFormsUI.dll
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\bin\Debug\net5.0-windows\ref\WinFormsUI.dll
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\bin\Debug\net5.0-windows\WinFormsUI.pdb
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.csproj.AssemblyReference.cache
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.frmDashboard.resources
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.csproj.GenerateResource.cache
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.AssemblyInfoInputs.cache
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.AssemblyInfo.cs
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.csproj.CoreCompileInputs.cache
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.dll
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\obj\Debug\net5.0-windows\ref\WinFormsUI.dll
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.pdb
+C:\Learnings\01 - CSharp__BasicConcepts\ThreadsDemo\WinFormsUI\obj\Debug\net5.0-windows\WinFormsUI.genruntimeconfig.cache

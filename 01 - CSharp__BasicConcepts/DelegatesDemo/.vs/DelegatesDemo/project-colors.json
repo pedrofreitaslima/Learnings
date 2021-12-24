@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10715129-315d-46ae-b4a6-101866a39459": {
+      "ProjectGuid": "10715129-315d-46ae-b4a6-101866a39459",
+      "DisplayName": "DelegatesDemo",
+      "ColorIndex": 0
+    },
+    "67636e60-094e-4ffa-9208-3e7b9051a56d": {
+      "ProjectGuid": "67636e60-094e-4ffa-9208-3e7b9051a56d",
+      "DisplayName": "DemoLibrary",
+      "ColorIndex": 1
+    },
+    "c5c04a3e-f1ba-438b-8c4d-b3ac3e130e2c": {
+      "ProjectGuid": "c5c04a3e-f1ba-438b-8c4d-b3ac3e130e2c",
+      "DisplayName": "ConsoleUI",
+      "ColorIndex": 2
+    },
+    "1e13ce8f-d43c-4289-a86e-e51736d3ab81": {
+      "ProjectGuid": "1e13ce8f-d43c-4289-a86e-e51736d3ab81",
+      "DisplayName": "WinFormUI",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ca4d469d-f6b1-42fc-aa79-aef3acc02ef4": {
+      "ProjectGuid": "ca4d469d-f6b1-42fc-aa79-aef3acc02ef4",
+      "DisplayName": "EventsAndDelegatesDemo",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

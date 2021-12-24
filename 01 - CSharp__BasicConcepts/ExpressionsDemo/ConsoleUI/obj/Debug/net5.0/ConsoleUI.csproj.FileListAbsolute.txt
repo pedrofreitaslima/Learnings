@@ -1,0 +1,16 @@
+C:\Learning\CSharp\ExpressionsDemo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.exe
+C:\Learning\CSharp\ExpressionsDemo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.deps.json
+C:\Learning\CSharp\ExpressionsDemo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.json
+C:\Learning\CSharp\ExpressionsDemo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.dev.json
+C:\Learning\CSharp\ExpressionsDemo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.dll
+C:\Learning\CSharp\ExpressionsDemo\ConsoleUI\bin\Debug\net5.0\ref\ConsoleUI.dll
+C:\Learning\CSharp\ExpressionsDemo\ConsoleUI\bin\Debug\net5.0\ConsoleUI.pdb
+C:\Learning\CSharp\ExpressionsDemo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.AssemblyReference.cache
+C:\Learning\CSharp\ExpressionsDemo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\CSharp\ExpressionsDemo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Learning\CSharp\ExpressionsDemo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfo.cs
+C:\Learning\CSharp\ExpressionsDemo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Learning\CSharp\ExpressionsDemo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.dll
+C:\Learning\CSharp\ExpressionsDemo\ConsoleUI\obj\Debug\net5.0\ref\ConsoleUI.dll
+C:\Learning\CSharp\ExpressionsDemo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.pdb
+C:\Learning\CSharp\ExpressionsDemo\ConsoleUI\obj\Debug\net5.0\ConsoleUI.genruntimeconfig.cache

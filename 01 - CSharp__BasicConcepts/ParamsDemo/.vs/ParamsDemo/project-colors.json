@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8108e1fb-e4a3-4605-9514-703c86cb52f4": {
+      "ProjectGuid": "8108e1fb-e4a3-4605-9514-703c86cb52f4",
+      "DisplayName": "ConsoleUI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
